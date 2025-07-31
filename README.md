@@ -1,4 +1,12 @@
-## Hi there 👋
+<h1 align="center">Hi there 👋, I am Maksym</h1>
+<h3 align="center">Frontend Developer</h3>
+<p align="center">
+  <img src="https://www.codewars.com/users/efmkdk/badges/large" alt="Efkdk's Codewars stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=efkdk&layout=compact&theme=tokyonight" alt="Efkdk's GitHub stats" />
+</p>
 
 <!--
 **efkdk/efkdk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
