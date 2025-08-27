@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I am Maksym</h1>
 <h3 align="center">I'm a FICE student (Kyiv, KPI)</h3>
 <p align="center">
-  <img src="https://www.codewars.com/users/efmkdk/badges/large" alt="Fractall8's Codewars stats" />
+  <img src="https://www.codewars.com/users/fractall8/badges/large" alt="Fractall8's Codewars stats" />
 </p>
 <ul>
   <li>🔭 I’m currently working on <b>SoundCloud music downloader bot</b></li>
