@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I am Maksym</h1>
 <h3 align="center">I'm a FICE student (Kyiv, KPI)</h3>
 <p align="center">
-  <img src="https://www.codewars.com/users/efmkdk/badges/large" alt="Efkdk's Codewars stats" />
+  <img src="https://www.codewars.com/users/efmkdk/badges/large" alt="Fractall8's Codewars stats" />
 </p>
 <ul>
   <li>🔭 I’m currently working on <b>SoundCloud music downloader bot</b></li>
@@ -9,7 +9,7 @@
   <li>👨‍💻 Some of my projects are available on Github</li>
 </ul>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=efkdk&layout=compact&theme=tokyonight" alt="Efkdk's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fractall8&layout=compact&theme=tokyonight" alt="Fractall8's GitHub stats" />
 </p>
 
 ## 💻 My Tech Stack: 
